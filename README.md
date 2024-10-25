@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abrish-21
 
-- 👀 I’m interested in **web development**, **AI/ML**, and **competitive programming**.
+- 👀 I’m interested in **web development** and **competitive programming**.
 - 🌱 I’m currently working on front-end projects with **React.js** and **Tailwind CSS**.
 - 💞️ I’m looking to collaborate on **open-source projects** and **AI-based solutions**.
 - 📫 How to reach me: [abrham.tilksew@aastustudent.edu.et](mailto:abrham.tilksew@aastustudent.edu.et)
