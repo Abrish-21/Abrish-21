@@ -2,8 +2,7 @@
 
 - 👀 I’m interested in **web development** and **competitive programming**.
 - 🌱 I’m currently working on front-end projects with **React.js** and **Tailwind CSS**.
-- 💞️ I’m looking to collaborate on **open-source projects** and **AI-based solutions**.
-- 📫 How to reach me: [abrham.tilksew@aastustudent.edu.et](mailto:abrham.tilksew@aastustudent.edu.et)
+- 📫 How to reach me: [abrhamttaye@gmail.com](mailto:abrhamttaye@gmail.com)
 - 😄 Pronouns: He/Him
 <!---
 Abrish-21/Abrish-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
