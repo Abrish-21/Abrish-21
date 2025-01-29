@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Abrish-21
 
 - 👀 I’m interested in **web development** and **competitive programming**.
-- 🌱 I’m currently working on front-end projects with **React.js** and **Tailwind CSS**.
+- 🌱 I’m currently learning and working with Front-end Technologies.S
 - 📫 How to reach me: [abrhamttaye@gmail.com](mailto:abrhamttaye@gmail.com)
 - 😄 Pronouns: He/Him
 <!---
