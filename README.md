@@ -13,8 +13,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing an AI based health and fitness assitance**
-- 🌱 I'm currently learning: **📚 Exploring NextJs**
+- 💼 I'm currently working on: **💻 AI integration**
+- 🌱 I'm currently: **📚 Exploring NextJs**
 - 💬 Ask me about: **💡 JavaScript, React, NextJs, ML, CP**
 - ⚡ Fun fact: **I took me a day to solve fizz buzz🙃**
 - 📂 Portfolio: **<a href="https://abrham-tilksew.vercel.app/" target="_blank">https://abrham-tilksew.vercel.app/</a>**
