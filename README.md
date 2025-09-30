@@ -15,8 +15,7 @@
 
 - 💼 I'm currently working on: **💻 Backend Devt. with AI integration**
 - 🌱 I'm: **📚 Exploring NextJs**
-- 💬 Ask me about: **💡 JavaScript, React, NextJs, ML, CP**
-- ⚡ Fun fact: **I took me a day to solve fizz buzz🙃**
+- 💬 Ask me about: **💡 JavaScript, React, Go, NextJs, ML, Competitive Programming**
 - 📂 Portfolio: **<a href="https://abrham-tilksew.vercel.app/" target="_blank">https://abrham-tilksew.vercel.app/</a>**
 
  **<h3 align="left">Skills</h3>**
