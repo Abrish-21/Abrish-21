@@ -13,9 +13,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Backend Devt. with AI integration**
-- 🌱 I'm: **📚 Exploring NextJs**
-- 💬 Ask me about: **💡 JavaScript, React, Go, NextJs, ML, Competitive Programming**
+- 🌱 I'm: **📚 I am exploring the world of Go**
 - 📂 Portfolio: **<a href="https://abrham-tilksew.vercel.app/" target="_blank">https://abrham-tilksew.vercel.app/</a>**
 
  **<h3 align="left">Skills</h3>**
